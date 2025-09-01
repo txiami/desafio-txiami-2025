@@ -26,6 +26,7 @@ Sua missão será encontrar pessoas aptas a levar os animais para casa.
 
 ### ANIMAIS
 
+  |           |           |                    |
   |-----------|-----------|--------------------|
   | Rex       | cão       | RATO, BOLA         |
   | Mimi      | gato      | BOLA, LASER        |
