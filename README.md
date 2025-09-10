@@ -10,10 +10,6 @@ Olá! Esta é a minha solução para o desafio técnico do programa StartDB. Aba
 *   **Testes Abrangentes:** Além dos testes fornecidos, foram adicionados **8 novos testes** para cobrir todas as regras de negócio, casos de borda (como entradas vazias) e interações complexas entre as regras (como o cenário de "empate" e o de "herança" de adoção quando um candidato atinge o limite).
 *   **Alta Cobertura de Testes:** A suíte de testes final atingiu **100% de cobertura** para as linhas e funções do código, garantindo alta confiabilidade na solução.
 
-Para executar a suíte de testes completa, que valida todos os cenários implementados, utilize o comando:
-```bash
-npm test
-```
 
 ---
 
